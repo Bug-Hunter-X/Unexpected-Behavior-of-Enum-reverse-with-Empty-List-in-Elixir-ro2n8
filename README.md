@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Elixir code that involves unexpected behavior of `Enum.reverse` with an empty list. The original code incorrectly handles the empty list scenario. The solution demonstrates the correct handling of this edge case.
